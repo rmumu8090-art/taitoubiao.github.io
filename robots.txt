@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 主动告知谷歌/百度爬虫：本站全部文章站点地图地址
+Sitemap: https://taitoubiao.github.io/sitemap.xml
