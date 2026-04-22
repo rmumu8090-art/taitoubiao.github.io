@@ -7,7 +7,7 @@
 ## 博客官方主页
 👉 在线站点地址：https://taitoubiao.github.io
 
-👉 钛投标官方网址：hhtps://taitoubiao.com
+👉 钛投标官方网址：https://taitoubiao.com
 
 ## 内容更新栏目
 - AI标书全套制作教程
