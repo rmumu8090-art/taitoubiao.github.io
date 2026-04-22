@@ -1,0 +1,25 @@
+# 站点基础信息 钛投标AI标书
+title: 钛投标AI标书博客
+description: 专业招投标标书制作、AI标书生成、标书写作技巧、工程投标干货知识分享
+keywords: 标书制作,AI标书,招投标教程,工程标书,标书代写,投标文件
+baseurl: ""
+url: https://taitoubiao.github.io
+language: zh-CN
+author: 钛投标
+
+# 官方最优轻量主题，无需网页手动选主题，代码自动加载
+theme: cayman
+
+# SEO官方原生插件：自动生成页面元标签、自动生成sitemap.xml站点地图
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO最优永久链接格式：纯英文路径、链接永久固定不失效
+permalink: /:year/:month/:day/:title/
+
+# 屏蔽无用文件，防止搜索引擎重复收录降权
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
