@@ -3,3 +3,25 @@ Allow: /
 
 # 主动告知谷歌/百度爬虫：本站全部文章站点地图地址
 Sitemap: https://taitoubiao.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://blog.taitoubiao.com/sitemap.xml
