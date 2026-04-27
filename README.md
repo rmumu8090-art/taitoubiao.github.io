@@ -5,7 +5,7 @@
 专注招投标全领域干货分享：标书制作教程、AI标书生成技巧、投标文件编写、工程标书、商务标书、投标避坑经验。
 
 ## 博客官方主页
-👉 在线站点地址：https://taitoubiao.github.io
+👉 在线站点地址：https://taitoubiao.github.io/sitemap.xml
 
 👉 钛投标官方网址：https://taitoubiao.com
 
